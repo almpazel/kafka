@@ -1,0 +1,7 @@
+name: kafka
+description: A new dart kafka client application, using io dart pure io lib and simple data transform protocol apache kafka.
+version: 0.0.1
+homepage: https://github.com/ifehrim/kafka
+
+environment:
+  sdk: ">=2.6.0 <3.0.0"
